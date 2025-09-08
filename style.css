@@ -1,0 +1,27 @@
+.div {
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+#taca {  
+    border-radius: 5%;
+    margin:50px auto;
+    width: 250px;
+    height:300px; 
+    background-color: rgb(92, 110, 93);
+}
+
+#brzeg {
+    margin:50px auto;
+    width: 150px;
+    height:200px;
+    background-color: rgb(204, 240, 163);
+}
+
+#sosu {
+    margin:25px auto;
+    width: 100px;
+    height:150px;
+    background-color: brown;
+}
+
